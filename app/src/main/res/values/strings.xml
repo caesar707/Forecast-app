@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="couldn_t_fetch_data">Couldn\'t Fetch Data!</string>
+    <string name="retry">Retry</string>
+    <string name="humidity">Humidity (%)</string>
+    <string name="wind_mph">Wind (kph)</string>
+    <string name="pressure_hpa">Pressure (hPa)</string>
+    <string name="errorHappened">Unexpected error happened, Try Again!</string>
+    <string name="no_connection">No Connection!</string>
+    <string name="time">Request Timeout!</string>
+    <string name="unreach">Server Unreachable!</string>
+    <string name="bad">Bad Request!</string>
+    <string name="notFound">Not Found!</string>
+    <string name="manyRequest">Many Request!</string>
+    <string name="not_accurate_data">Not Accurate Data!</string>
+</resources>
